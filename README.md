@@ -48,7 +48,21 @@ It can be deduced from the chart that despite having one of the highest cumulati
 
 ![image](https://github.com/user-attachments/assets/9efd775c-dc73-4ba3-9532-901dfde8b8b9)
 
+Weights of optimized portfolio and the sum of the weights
+Weights in a portfolio refers to the percentage of the total portfolio value that is allocated to each individual asset or security within the portfolio. The weights are used to determine the overall performance of the portfolio and reflect the relative importance of each asset in the portfolio. The higher the weight assigned to an asset, the more significant its impact on the overall portfolio performance. In our portfolio, NTTYY (Nippon Telegraph and Telephone Corporation) has the highest weight, while the ARW and BRX have negative weights which can be used for short selling.
+![image](https://github.com/user-attachments/assets/a3b05e3b-929f-412e-81ce-0b0d5327dd91)
 
+* Cumulative return chart of your optimized portfolio
+The following figure shows the Cumulative return forecast for our portfolio and the SP500TR index for 2021 over the period of 3 months. Looking at the bigger picture, it is clear that although our portfolio performed better than the SP500 stock in terms of cumulative returns, the trendlines of the two are correlated for most part of the forecast. This suggests that our portfolio and SP500 stocks are influenced by similar economic factors and may be part of the same industry or sector.
 
+![image](https://github.com/user-attachments/assets/575cb64e-7e7a-4090-a3a6-b5aa8e5eb524)
 
+* Annualized returns for your portfolio and SP500TR index for 2021
+The annualized return for the portfolio is 37.16% as compared to SP500 stock which is 29.87%. There is not much difference in the volatility when compared between our portfolio as well as the SP500TR. Furthermore, the annualized sharp helps investors understand whether the returns they are receiving are commensurate with the amount of risk they are taking on. Our portfolio having a higher value than the SP500 stock indicates that our investors will receive returns equivalent to the risks then endure. Overall, the performance of the portfolio seems encouraging.
 
+![image](https://github.com/user-attachments/assets/34b2e523-f20f-4d14-b0d4-a71ef1a2998d)
+
+* **CONCLUSION**
+For this project the Mean-Variance (MV) portfolio was optimized using company tickers based on the initials of the last names of the group members. The data used for this optimization spanned five years, from 2016 to 2020, and was tested over the first three months of 2021. In addition to the portfolio optimization, the cumulative and annualized returns for the selected stock tickers were calculated. This analysis provided valuable insights into the performance of the portfolio and helped us make informed decisions regarding our investment strategy.
+The annualized return of our portfolio was higher than that of the SP500 stock, indicating that our investment strategy was successful in generating returns. The volatility between our portfolio and the SP500TR was comparable, meaning that our portfolio did not involve significantly higher risk. Additionally, the higher annualized Sharpe ratio for our portfolio indicates that the returns received were proportionate to the risks taken on by investors. Overall, the performance of the portfolio appears promising, suggesting that our investment strategy was effective in achieving our objectives.
+Nevertheless, additional research is imperative to ascertain whether it consistently surpasses the benchmark and whether it constitutes a suitable long-term investment approach.
